@@ -5,10 +5,16 @@ stylus grid
 * em-based
 * rtl-friendly
 
+## install
+
+```sh
+$ npm install bloody-grid
+```
+
 ## usage
 
 ```stylus
-@require "grid"
+@require "bloody-grid"
 ```
 
 ## structure
