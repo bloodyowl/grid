@@ -1,0 +1,20 @@
+{
+  "name": "bloody-grid",
+  "version": "0.0.0",
+  "description": "stylus grid",
+  "main": "index.styl",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bloodyowl/grid.git"
+  },
+  "keywords": [
+    "grid",
+    "stylus"
+  ],
+  "author": "bloodyowl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bloodyowl/grid/issues"
+  },
+  "homepage": "https://github.com/bloodyowl/grid"
+}
