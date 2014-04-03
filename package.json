@@ -1,6 +1,6 @@
 {
   "name": "bloody-grid",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "stylus grid",
   "main": "index.styl",
   "repository": {
